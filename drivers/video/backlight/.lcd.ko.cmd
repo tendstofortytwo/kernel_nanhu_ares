@@ -1,1 +1,0 @@
-cmd_drivers/video/backlight/lcd.ko := /home/nsdcars5/android-toolchain-eabi/bin/arm-eabi-ld -EL -r  -T /home/nsdcars5/areskernel/scripts/module-common.lds --build-id  -o drivers/video/backlight/lcd.ko drivers/video/backlight/lcd.o drivers/video/backlight/lcd.mod.o

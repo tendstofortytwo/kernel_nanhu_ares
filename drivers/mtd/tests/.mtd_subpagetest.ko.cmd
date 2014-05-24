@@ -1,1 +1,0 @@
-cmd_drivers/mtd/tests/mtd_subpagetest.ko := /home/nsdcars5/android-toolchain-eabi/bin/arm-eabi-ld -EL -r  -T /home/nsdcars5/areskernel/scripts/module-common.lds --build-id  -o drivers/mtd/tests/mtd_subpagetest.ko drivers/mtd/tests/mtd_subpagetest.o drivers/mtd/tests/mtd_subpagetest.mod.o

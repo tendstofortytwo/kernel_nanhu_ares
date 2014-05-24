@@ -1,1 +1,0 @@
-cmd_drivers/media/video/gspca/gspca_main.ko := /home/nsdcars5/android-toolchain-eabi/bin/arm-eabi-ld -EL -r  -T /home/nsdcars5/areskernel/scripts/module-common.lds --build-id  -o drivers/media/video/gspca/gspca_main.ko drivers/media/video/gspca/gspca_main.o drivers/media/video/gspca/gspca_main.mod.o

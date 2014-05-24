@@ -1,1 +1,0 @@
-cmd_drivers/leds/built-in.o :=  /home/nsdcars5/android-toolchain-eabi/bin/arm-eabi-ld -EL    -r -o drivers/leds/built-in.o drivers/leds/led-core.o drivers/leds/led-class.o drivers/leds/leds-pmic-mpp.o drivers/leds/leds-msm-pdm.o drivers/leds/leds-msm-tricolor.o drivers/leds/leds-acm-red.o drivers/leds/leds-acm-green.o drivers/leds/leds-acm-blue.o drivers/leds/leds-lm3533.o 

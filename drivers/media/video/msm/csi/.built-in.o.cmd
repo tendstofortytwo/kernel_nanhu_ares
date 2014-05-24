@@ -1,1 +1,0 @@
-cmd_drivers/media/video/msm/csi/built-in.o :=  /home/nsdcars5/android-toolchain-eabi/bin/arm-eabi-ld -EL    -r -o drivers/media/video/msm/csi/built-in.o drivers/media/video/msm/csi/msm_csic_register.o drivers/media/video/msm/csi/msm_csic.o 

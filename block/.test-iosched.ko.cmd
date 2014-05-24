@@ -1,1 +1,0 @@
-cmd_block/test-iosched.ko := /home/nsdcars5/android-toolchain-eabi/bin/arm-eabi-ld -EL -r  -T /home/nsdcars5/areskernel/scripts/module-common.lds --build-id  -o block/test-iosched.ko block/test-iosched.o block/test-iosched.mod.o

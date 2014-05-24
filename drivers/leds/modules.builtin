@@ -1,8 +1,0 @@
-kernel/drivers/leds/led-class.ko
-kernel/drivers/leds/leds-pmic-mpp.ko
-kernel/drivers/leds/leds-msm-pdm.ko
-kernel/drivers/leds/leds-msm-tricolor.ko
-kernel/drivers/leds/leds-acm-red.ko
-kernel/drivers/leds/leds-acm-green.ko
-kernel/drivers/leds/leds-acm-blue.ko
-kernel/drivers/leds/leds-lm3533.ko
