@@ -1,0 +1,1 @@
+cmd_drivers/net/wireless/libra/librasdioif.ko := /home/nsdcars5/android-toolchain-eabi/bin/arm-eabi-ld -EL -r  -T /home/nsdcars5/areskernel/scripts/module-common.lds --build-id  -o drivers/net/wireless/libra/librasdioif.ko drivers/net/wireless/libra/librasdioif.o drivers/net/wireless/libra/librasdioif.mod.o

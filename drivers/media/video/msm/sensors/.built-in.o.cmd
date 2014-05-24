@@ -1,0 +1,1 @@
+cmd_drivers/media/video/msm/sensors/built-in.o :=  /home/nsdcars5/android-toolchain-eabi/bin/arm-eabi-ld -EL    -r -o drivers/media/video/msm/sensors/built-in.o drivers/media/video/msm/sensors/msm_sensor.o drivers/media/video/msm/sensors/s5k5ca_v4l2_yuv.o 
