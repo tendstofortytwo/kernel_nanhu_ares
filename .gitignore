@@ -3,6 +3,8 @@
 *.ko
 *.obj
 *.elf
+*.o.*
+*~
 
 # Libraries
 *.lib
